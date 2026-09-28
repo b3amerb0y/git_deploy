@@ -10,5 +10,11 @@ def index():
 def status():
     return {"status": "ok", "entorno": "contenedor-docker", "version": "1.1.0"}
 
+@app.route("/api/status/ok")
+def status():
+    return {"status": "ok", "version": "1.1.1"}
+
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
