@@ -15,6 +15,7 @@ def status():
     return {"status": "ok", "version": "1.1.1"}
 
 print("status: ok")
+
 print(1)
 
 if __name__ == '__main__':
