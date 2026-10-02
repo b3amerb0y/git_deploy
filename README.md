@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Kairo
+# ⚡ Kairov2
 
 ### La nube de tu empresa gasta de más. Kairo lo arregla solo.
 
